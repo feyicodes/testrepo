@@ -1,4 +1,3 @@
 # Testing
 
-## Double test
 
